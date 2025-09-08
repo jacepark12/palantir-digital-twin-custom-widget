@@ -9,10 +9,10 @@
 ## Demo
 
 ### Load Inventor Model in Palantir Workshop
-![Demo1](./images/demo1.PNG)
+![Demo1](./images/demo1.png)
 
 ### Render Ontology Data inside the viewer
-![Demo2](./images/demo1.PNG)
+![Demo2](./images/demo1.png)
 
 ## Workshop Configuration
 
