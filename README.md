@@ -6,6 +6,14 @@
 - **Extension System**: Extensible feature modules using OSDK
 - **Workshop Integration**: Bidirectional data synchronization with Palantir Workshop
 
+## Demo
+
+### Load Inventor Model in Palantir Workshop
+![Demo1](./images/demo1.PNG)
+
+### Render Ontology Data inside the viewer
+![Demo2](./images/demo1.PNG)
+
 ## Workshop Configuration
 
 The widget's Workshop integration is configured through `src/config.ts`. This file defines the data fields that the widget can exchange with Palantir Workshop. When extending the widget's functionality, you'll need to modify this configuration file.
