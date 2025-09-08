@@ -12,7 +12,7 @@
 ![Demo1](./images/demo1.png)
 
 ### Render Ontology Data inside the viewer
-![Demo2](./images/demo1.png)
+![Demo2](./images/demo2.png)
 
 ## Workshop Configuration
 
